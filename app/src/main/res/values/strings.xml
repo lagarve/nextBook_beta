@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nextBook</string>
+    <string name="registerBook">Registro de un libro</string>
+    <string name="titleBook">Titulo</string>
+    <string name="authorBook">Autor</string>
+    <string name="pagesBook">Número de paginas</string>
+    <string name="ResumenBook">Sinopsis</string>
+    <string name="save">Guardar</string>
+</resources>
